@@ -4,13 +4,13 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "6500",
 
-                "C_ID": "3",
+                
 
                 "NB_FLOORS": "2",
 
@@ -22,13 +22,13 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "4",
+               
 
                 "NB_FLOORS": "3",
 
@@ -40,13 +40,13 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "5",
+                
 
                 "NB_FLOORS": "3",
 
@@ -58,13 +58,13 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "6",
+               
 
                 "NB_FLOORS": "3",
 
@@ -76,13 +76,12 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
-
+               
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "7",
+                
 
                 "NB_FLOORS": "3",
 
@@ -94,13 +93,12 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
-
+               
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "8",
+              
 
                 "NB_FLOORS": "3",
 
@@ -112,13 +110,12 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
-
+               
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "9",
+              
 
                 "NB_FLOORS": "3",
 
@@ -130,7 +127,7 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+                
 
                 "CITY": "Makkah",
 
@@ -138,7 +135,7 @@
 
                 "C_ID": "10",
 
-                "NB_FLOORS": "3",
+              
 
                 "C_URL": "https://i.pinimg.com/1200x/df/28/36/df28361f7d7f1ec4f75a9c78c3c8fbcf.jpg"
 
@@ -148,31 +145,13 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "11",
-
-                "NB_FLOORS": "3",
-
-                "C_URL": "https://i.pinimg.com/1200x/df/28/36/df28361f7d7f1ec4f75a9c78c3c8fbcf.jpg"
-
-            },
-
-            {
-
-                "CITY_AREA": "center",
-
-                "NB_BEDROOMS": "3",
-
-                "CITY": "Makkah",
-
-                "PRICE": "7500",
-
-                "C_ID": "12",
+              
 
                 "NB_FLOORS": "3",
 
@@ -184,13 +163,31 @@
 
                 "CITY_AREA": "center",
 
-                "NB_BEDROOMS": "3",
+               
 
                 "CITY": "Makkah",
 
                 "PRICE": "7500",
 
-                "C_ID": "13",
+              
+
+                "NB_FLOORS": "3",
+
+                "C_URL": "https://i.pinimg.com/1200x/df/28/36/df28361f7d7f1ec4f75a9c78c3c8fbcf.jpg"
+
+            },
+
+            {
+
+                "CITY_AREA": "center",
+
+               
+
+                "CITY": "Makkah",
+
+                "PRICE": "7500",
+
+               
 
                 "NB_FLOORS": "3",
 
